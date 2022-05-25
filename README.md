@@ -10,7 +10,7 @@
 
 ## Installation <a name="installation"></a>
 
-You have install all libraries in the requirements.txt in your Python 3._ Virtual Environment. The code should run with no issues using Python versions 3._.
+You have to install all libraries in the requirements.txt in your Python 3._ Virtual Environment. The code should run with no issues using Python versions 3._.
 
 ## Project Motivation<a name="motivation"></a>
 

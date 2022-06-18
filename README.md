@@ -26,7 +26,7 @@ There is a notebook available here to showcase work related to the above questio
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com).
+The main findings of the code can be found at the post available [here](https://medium.com/p/8d1f6e3d898a#32ec-7901fdcfb7ae).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
